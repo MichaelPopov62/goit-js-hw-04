@@ -29,7 +29,7 @@ const profile = {
 
 // метод для інформаціі про профіль
   getInfo(){
-  return `${this.username} has ${this.playTimehis} active hours!`;
+  return `${this.username} has ${this.playTime} active hours!`;
 }
  };
 
